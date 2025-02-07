@@ -33,3 +33,4 @@ bandit==1.7.4
 rq==1.11.1
 redis==4.4.4
 git+https://github.com/cardinal-dev/scout@main
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
